@@ -52,7 +52,26 @@ Relative to other schools, we can see that Thomas High School performance rankin
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Because we only replaced the ninth graders scores, when running the analysis we see a 'NaN' value in the summry data. The scores for tenth to twelveth graders remains unaffected.
+
+#### Scores by school spending
+Thomas High School has a school spending range of $630 - $644. We can see there is virtually no impact by nulling the ninth graders scores.
+
+### Scores by school size
+
+
+Thomas High School falls in the medium-sized range. As noted in the images above, there is virtually no chance.
+
+#### Scores by school type
+Thomas High School is a charter school. As noted, there was very little impact to the original analysis.
+
+### Summary:
+The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
+
+Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+
+Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
+
+In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.
+
+The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views
