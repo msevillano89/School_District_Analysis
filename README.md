@@ -64,9 +64,11 @@ Relative to other schools, we can see that Thomas High School's performance rank
 Because we only replaced the ninth graders' scores, we see a 'NaN' value in the summary data when running the analysis. The scores for tenth to twelfth graders remain unaffected. See image below:
 
 Math Scores:
+
 ![THS Math Scores](https://github.com/msevillano89/School_District_Analysis/blob/main/Resources/Cleansed_THS_math.png)
 
 Reading Scores:
+
 ![THS Reading Scores](https://github.com/msevillano89/School_District_Analysis/blob/main/Resources/Cleansed_THS_reading.png)
 
 #### Scores by school spending
@@ -76,15 +78,25 @@ Original Output:
 Cleansed Output:
 ![Cleansed school spending](https://github.com/msevillano89/School_District_Analysis/blob/main/Resources/Cleansed_Spending.png)
 
-Thomas High School has a school spending range of $630 - $644. There is virtually no impact by nulling the ninth graders' scores.
+Thomas High School has a school spending range of **$631 - $645**. There is virtually no impact by nulling the ninth graders' scores.
 
 ### Scores by school size
+Original Output:
+![Original school size](https://github.com/msevillano89/School_District_Analysis/blob/main/Resources/Original_size.png)
 
+Cleansed Output:
+![Cleansed school size](https://github.com/msevillano89/School_District_Analysis/blob/main/Resources/Cleansed_size.png)
 
-Thomas High School falls in the medium-sized range. As noted in the images above, there is virtually no chance.
+Thomas High School falls in the **medium-sized range**. As noted in the images above, there is virtually no chance.
 
 #### Scores by school type
-Thomas High School is a charter school. As noted, there was minimal impact on the original analysis.
+Original Output:
+![Original school type](https://github.com/msevillano89/School_District_Analysis/blob/main/Resources/Original_type.png)
+
+Cleansed Output:
+![Cleansed school type](https://github.com/msevillano89/School_District_Analysis/blob/main/Resources/Cleansed_type.png)
+
+Thomas High School is a **charter school**. As noted, there was minimal impact on the original analysis.
 
 ### Summary
 Thomas High School's results are summarized as follows:
